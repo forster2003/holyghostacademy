@@ -1,0 +1,6 @@
+{
+  "name": "Holy Ghost Academy Secondary School Website",
+  "description": "The premium secondary school website and administrative management portal for Holy Ghost Academy, Awka, Anambra State, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
